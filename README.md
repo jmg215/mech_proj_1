@@ -9,3 +9,5 @@ project 2 was a classic line-follower robot. competition for fastest traversal o
 
 project 3 was a maze solver in the traditional sense. There was no ML involved. ultrasonic sensors were used to 
 detect walls and make it around the course. 
+
+ALL CODE IS IN .INO FORM, to allow uploading to the Arduino microcontroller. Base Code is in C++
